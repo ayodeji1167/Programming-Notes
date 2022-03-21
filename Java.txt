@@ -1,0 +1,16 @@
+[
+{"name" : "ayodeji",
+"regNo" : 100},
+
+{"name" : "wahab",
+"regNo" : 101},
+
+{"name" : "qlox",
+"regNo" : 102},
+
+{"name" : "tao",
+"regNo" : 103},
+
+{"name" : "mum",
+"regNo" : 104}
+
